@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Twilight exterior architecture photography.
-datePublished: '2016-02-05T07:08:50.185Z'
-dateModified: '2016-02-05T07:08:28.181Z'
+description: Twilight exterior architecture photography
+datePublished: '2016-02-05T07:14:06.395Z'
+dateModified: '2016-02-05T07:11:05.165Z'
 title: Exteriors
 author: []
 authors: []
