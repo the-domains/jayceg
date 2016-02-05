@@ -1,0 +1,28 @@
+name: Jayce Giddens Photography
+favicon: null
+layout_spectrum: 0.29099408769980073
+typography_spectrum: 0.28337742388248444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11890764464624226
+  lightness: 0.6744743038434535
+  saturation: 0.6050836583599448
+  rhythmicContrast: 0.6690982496365905
+purpose: []
