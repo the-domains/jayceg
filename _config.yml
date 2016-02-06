@@ -1,5 +1,8 @@
+name: Jayce Giddens Photography
+favicon: null
+layout_spectrum: 0.9605735
+typography_spectrum: 0.67424
 title: Corvallis Oregon Comercial Photographer
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2508961
-  brandStrength: 0.2096774
-  lightness: 0.3028674
   brandColors:
     - '#040404'
     - '#5C79BC'
     - '#393030'
     - '#C6BDC6'
     - '#E99230'
+  brandStrength: 0.2096774
+  lightness: 0.3028674
+  saturation: 0.2508961
   rhythmicContrast: 0.3297491
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Jayce Giddens Photography
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2833774238824844
-layout_spectrum: 0.9605735
+purpose: []
