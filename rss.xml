@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Corvallis Oregon Comercial Photographer]]></title>
         <description><![CDATA[Corvallis Oregon Comercial Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jayceg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 03:44:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 03:44:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jayceg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Salem Sweet Suite]]></title>
+            <description><![CDATA[<article><h1>Salem Sweet Suite</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfe985220c6e13b166730e2261717bb26161632f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jayceg/salem-sweet-suite/index.html</link>
+            <guid isPermaLink="false">c95c96cc-8fc9-44ae-a67b-4d1cb3a2fd34</guid>
+            <pubDate>Sat, 05 Mar 2016 03:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exteriors]]></title>
+            <description><![CDATA[<article><h1>Exteriors</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c98decc63d021860a4870a5540dc3158dcf1c284.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jayceg/exteriors/index.html</link>
+            <guid isPermaLink="false">ce05f3fd-4cf0-4a99-9eed-09766f40f4b4</guid>
+            <pubDate>Sat, 05 Mar 2016 03:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cool Kitchens]]></title>
-            <description><![CDATA[<article><h1>Cool Kitchens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af9e43a456ccd29b0915dca62fa9aba5bdf703c2.jpg"></article>]]></description>
-            <link>undefinedcool-kitchens/index.html</link>
+            <description><![CDATA[<article><h1>Cool Kitchens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4d1f19e1fd501ae4f69cc0dd1b9f032fce1d0cb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jayceg/cool-kitchens/index.html</link>
             <guid isPermaLink="false">cd93bae9-dbee-44d0-878d-25f07ed41517</guid>
             <pubDate>Sat, 05 Mar 2016 03:42:23 GMT</pubDate>
         </item>
