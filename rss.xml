@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Corvallis Oregon Comercial Photographer]]></title>
+        <description><![CDATA[Corvallis Oregon Comercial Photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 03:44:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cool Kitchens]]></title>
+            <description><![CDATA[<article><h1>Cool Kitchens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af9e43a456ccd29b0915dca62fa9aba5bdf703c2.jpg"></article>]]></description>
+            <link>undefinedcool-kitchens/index.html</link>
+            <guid isPermaLink="false">cd93bae9-dbee-44d0-878d-25f07ed41517</guid>
+            <pubDate>Sat, 05 Mar 2016 03:42:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
